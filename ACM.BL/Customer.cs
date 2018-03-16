@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ACM.BL
 {
-    class Customer
+    public class Customer
     {
         public int CustomerId { get; set; }
 
@@ -13,5 +13,10 @@ namespace ACM.BL
         public string FirstName { get; set; }
 
         public string LastName { get; set; }
+
+        public void ValidateEmail()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

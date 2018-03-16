@@ -4,7 +4,11 @@ using System.Text;
 
 namespace ACM.BL
 {
-    class OrderRepository
+    public class OrderRepository
     {
+        public void Add(Order order)
+        {
+
+        }
     }
 }

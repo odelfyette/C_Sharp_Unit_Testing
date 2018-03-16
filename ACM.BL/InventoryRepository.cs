@@ -4,7 +4,11 @@ using System.Text;
 
 namespace ACM.BL
 {
-    class InventoryRepository
+    public class InventoryRepository
     {
+        public void OrderItems(Order order, bool allowSplitOrders)
+        {
+            
+        }
     }
 }

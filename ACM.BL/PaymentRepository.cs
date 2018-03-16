@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ACM.BL
 {
-    class PaymentRepository
+    public class PaymentRepository
     {
     }
 }

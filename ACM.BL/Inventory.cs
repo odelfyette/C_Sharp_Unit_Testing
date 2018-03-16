@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ACM.BL
 {
-    class Inventory
+    public class Inventory
     {
     }
 }

@@ -2,7 +2,11 @@
 
 namespace Core.Common
 {
-    public class Class1
+    public class EmailLibrary
     {
+        public void SendEmail(string emailAddress, string v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

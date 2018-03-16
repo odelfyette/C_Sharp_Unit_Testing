@@ -4,7 +4,11 @@ using System.Text;
 
 namespace ACM.BL
 {
-    class Payment
+    public class Payment
     {
+        public void ProcessPayment()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

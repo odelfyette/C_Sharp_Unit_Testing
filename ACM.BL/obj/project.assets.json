@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Core.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Core.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.Common.dll": {}
+        }
       }
     }
   },
@@ -169,10 +179,16 @@
         "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._"
       ]
+    },
+    "Core.Common/1.0.0": {
+      "type": "project",
+      "path": "../Core.Common/Core.Common.csproj",
+      "msbuildProject": "../Core.Common/Core.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "Core.Common >= 1.0.0",
       "NETStandard.Library >= 2.0.1"
     ]
   },
@@ -208,7 +224,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\odelf\\source\\repos\\AcmeCustomerManagement\\Core.Common\\Core.Common.csproj": {
+              "projectPath": "C:\\Users\\odelf\\source\\repos\\AcmeCustomerManagement\\Core.Common\\Core.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
