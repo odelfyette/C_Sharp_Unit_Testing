@@ -1,0 +1,9 @@
+C:\Users\odelf\source\repos\AcmeCustomerManagement\Core.Common\bin\Debug\netstandard2.0\Core.Common.deps.json
+C:\Users\odelf\source\repos\AcmeCustomerManagement\Core.Common\bin\Debug\netstandard2.0\Core.Common.dll
+C:\Users\odelf\source\repos\AcmeCustomerManagement\Core.Common\bin\Debug\netstandard2.0\Core.Common.pdb
+C:\Users\odelf\source\repos\AcmeCustomerManagement\Core.Common\obj\Debug\netstandard2.0\Core.Common.csprojResolveAssemblyReference.cache
+C:\Users\odelf\source\repos\AcmeCustomerManagement\Core.Common\obj\Debug\netstandard2.0\Core.Common.csproj.CoreCompileInputs.cache
+C:\Users\odelf\source\repos\AcmeCustomerManagement\Core.Common\obj\Debug\netstandard2.0\Core.Common.AssemblyInfoInputs.cache
+C:\Users\odelf\source\repos\AcmeCustomerManagement\Core.Common\obj\Debug\netstandard2.0\Core.Common.AssemblyInfo.cs
+C:\Users\odelf\source\repos\AcmeCustomerManagement\Core.Common\obj\Debug\netstandard2.0\Core.Common.dll
+C:\Users\odelf\source\repos\AcmeCustomerManagement\Core.Common\obj\Debug\netstandard2.0\Core.Common.pdb

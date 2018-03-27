@@ -1,0 +1,12 @@
+C:\Users\odelf\source\repos\AcmeCustomerManagement\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.deps.json
+C:\Users\odelf\source\repos\AcmeCustomerManagement\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.dll
+C:\Users\odelf\source\repos\AcmeCustomerManagement\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.pdb
+C:\Users\odelf\source\repos\AcmeCustomerManagement\ACM.BL\bin\Debug\netstandard2.0\Core.Common.dll
+C:\Users\odelf\source\repos\AcmeCustomerManagement\ACM.BL\bin\Debug\netstandard2.0\Core.Common.pdb
+C:\Users\odelf\source\repos\AcmeCustomerManagement\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csprojResolveAssemblyReference.cache
+C:\Users\odelf\source\repos\AcmeCustomerManagement\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\odelf\source\repos\AcmeCustomerManagement\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfoInputs.cache
+C:\Users\odelf\source\repos\AcmeCustomerManagement\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfo.cs
+C:\Users\odelf\source\repos\AcmeCustomerManagement\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csproj.CopyComplete
+C:\Users\odelf\source\repos\AcmeCustomerManagement\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.dll
+C:\Users\odelf\source\repos\AcmeCustomerManagement\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.pdb
