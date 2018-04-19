@@ -27,10 +27,10 @@ namespace ACM.BL
             if (string.IsNullOrWhiteSpace(goalSteps)) throw new ArgumentException("Goal must be entered", "goalSteps");
             if (string.IsNullOrWhiteSpace(actualSteps)) throw new ArgumentException("Goal must be entered", "actualSteps");
 
-            if (!decimal.TryParse(goalSteps, out goalStepCount)) throw new ArgumentException("Goal must be numeric", "goalSteps");
-            if (!decimal.TryParse(actualSteps, out goalStepCount)) throw new ArgumentException("Actual steps must be numeric", "actualSteps"); 
+            if (!decimal.TryParse(goalSteps, out goalStepCount)) throw new ArgumentException("Goal must be numeric");
+            if (!decimal.TryParse(actualSteps, out actualStepCount)) throw new ArgumentException("Actual steps must be numeric"); 
 
-            return (actualStepCount / goalStepCount) * 100;
+            return Math.Round((actualStepCount / goalStepCount) * 100, 2);
         }
     }
 }
